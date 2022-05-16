@@ -1,7 +1,7 @@
 #include "memoryrow.h"
 #include <exception>
 #include <cstdlib>
-
+#include <stdexcept>
 
 
 MemoryRow::MemoryRow(const char label):

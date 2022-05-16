@@ -11,5 +11,5 @@ See files `COPYING.*` for other copyright notices.
 
 ---
 
-Since I morally opposed to project code of conducts beyond "don't be an asshole" I will not be contributing my patches to fix Epple2 back to the upstream. 
+Since I am morally opposed to project code of conducts beyond "don't be an asshole" I will not be contributing my patches to fix Epple2 back to the upstream. 
 This is a personal fork, to make this thing actually work and compile on my own system. Patches mostly unwelcome. 
